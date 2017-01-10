@@ -1,0 +1,11 @@
+why pre-proceesing?
+-poor quality (poor lighting,motion artifact)
+why histogram equalisation?
+due to HE dynamic range incs
+global thresholding.
+why sharpening filtering?
+enhance contrast at edges
+why glcm?
+statisical Haralick feature extraction
+glcm generation explain
+why back propagation:most accurate
